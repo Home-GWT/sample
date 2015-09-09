@@ -1,4 +1,4 @@
-1. Создаем/Генерим проект с нуля средствами мавена ( [https://antonkirillov.wordpress.com/2011/03/22/creating-and-running-gwt-project-using-maven-and-intellij-idea-10/](https://antonkirillov.wordpress.com/2011/03/22/creating-and-running-gwt-project-using-maven-and-intellij-idea-10/) ):
+1. Создаем / Генерим проект с нуля средствами мавена ( [https://antonkirillov.wordpress.com/2011/03/22/creating-and-running-gwt-project-using-maven-and-intellij-idea-10/](https://antonkirillov.wordpress.com/2011/03/22/creating-and-running-gwt-project-using-maven-and-intellij-idea-10/) ):
    mvn -DarchetypeGroupId=org.codehaus.mojo -DarchetypeArtifactId=gwt-maven-plugin -DarchetypeVersion=2.2.0 -DgroupId=ru.scrumdev.sample -DartifactId=sample -Dversion=1.0 org.apache.maven.plugins:maven-archetype-plugin:generate
 2. Результатом выполненения мавена получим:
 [INFO] Using property: groupId = ru.scrumdev.sample
